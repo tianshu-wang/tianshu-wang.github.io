@@ -21,11 +21,11 @@
 title: Tianshu Wang's Personal Page
 email: tianshuw@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  天何所杳
+  天何所杳，十二焉分？日月安属，列星安陈？
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username: tianshu-wang
 
 # Build settings
 theme: minima
